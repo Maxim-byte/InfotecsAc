@@ -1,6 +1,6 @@
-#include "globalVar.hpp"
 #include <chrono>
 #include <iostream>
+#include "globalVar.hpp"
 #include "quickSort.hpp"
 
 int main()
