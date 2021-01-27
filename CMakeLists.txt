@@ -3,7 +3,7 @@ project(InfotecsAc)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algo main.cpp
+add_executable(InfotecsAc main.cpp
         quickSort.hpp
         globalVar.hpp)
 
