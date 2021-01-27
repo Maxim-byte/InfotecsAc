@@ -18,3 +18,7 @@ P.S. измерение происходили с использованием �
 cmake CMakeLists.txt
 make
 ./InfotecsAc
+Для запуска тестов:
+cmake CMakeLists.txt
+make
+./Boost_Tests_run
